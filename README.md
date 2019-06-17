@@ -1,2 +1,2 @@
-# mod2solution
-solution of module 2
+# assignment solution
+solution of assignment
